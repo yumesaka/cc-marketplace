@@ -1,0 +1,23 @@
+{
+  "name": "cc-marketplace",
+  "owner": {
+    "name": "yumesaka"
+  },
+  "metadata": {
+    "description": "Claude Code 플러그인 마켓플레이스 - 팀 전용 플러그인 배포",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "code-reviewer",
+      "source": {
+        "source": "github",
+        "repo": "yumesaka/cc-plugins-sample"
+      },
+      "description": "코드 변경사항을 분석하고 품질, 보안, 구조 관점에서 리뷰 피드백을 제공하는 플러그인",
+      "version": "1.0.0",
+      "keywords": ["code-review", "quality", "security"],
+      "category": "development"
+    }
+  ]
+}
