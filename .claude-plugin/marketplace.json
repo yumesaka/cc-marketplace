@@ -18,6 +18,19 @@
       "version": "1.0.0",
       "keywords": ["code-review", "quality", "security"],
       "category": "development"
+    },
+    {
+      "name": "vault-skills",
+      "source": {
+        "source": "github",
+        "repo": "yumesaka/claude-common"
+      },
+      "skills": ["./skills/inbox-para-triage"],
+      "strict": false,
+      "description": "Obsidian vault 전용 스킬 묶음 (PARA inbox triage 등)",
+      "version": "1.0.0",
+      "keywords": ["obsidian", "para", "vault"],
+      "category": "productivity"
     }
   ]
 }
