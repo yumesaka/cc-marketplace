@@ -31,6 +31,19 @@
       "version": "1.1.0",
       "keywords": ["obsidian", "para", "vault", "search"],
       "category": "productivity"
+    },
+    {
+      "name": "llm-wiki-elnath",
+      "source": {
+        "source": "github",
+        "repo": "yumesaka/claude-common"
+      },
+      "skills": ["./skills/raw-collector"],
+      "strict": false,
+      "description": "LLM Wiki 파이프라인 스킬 묶음 (볼트 간 주제 자료 수집 등)",
+      "version": "1.0.0",
+      "keywords": ["obsidian", "llm-wiki", "vault", "collect"],
+      "category": "productivity"
     }
   ]
 }
