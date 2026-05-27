@@ -25,11 +25,11 @@
         "source": "github",
         "repo": "yumesaka/claude-common"
       },
-      "skills": ["./skills/inbox-para-triage"],
+      "skills": ["./skills/inbox-para-triage", "./skills/vault-search"],
       "strict": false,
-      "description": "Obsidian vault 전용 스킬 묶음 (PARA inbox triage 등)",
-      "version": "1.0.0",
-      "keywords": ["obsidian", "para", "vault"],
+      "description": "Obsidian vault 전용 스킬 묶음 (PARA inbox triage, 볼트 노트 교차 검색 등)",
+      "version": "1.1.0",
+      "keywords": ["obsidian", "para", "vault", "search"],
       "category": "productivity"
     }
   ]
