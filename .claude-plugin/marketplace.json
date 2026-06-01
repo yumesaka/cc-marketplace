@@ -25,11 +25,11 @@
         "source": "github",
         "repo": "yumesaka/claude-common"
       },
-      "skills": ["./skills/inbox-para-triage", "./skills/vault-search"],
+      "skills": ["./skills/inbox-para-triage", "./skills/vault-search", "./skills/youtube-notebooklm"],
       "strict": false,
-      "description": "Obsidian vault 전용 스킬 묶음 (PARA inbox triage, 볼트 노트 교차 검색 등)",
-      "version": "1.1.0",
-      "keywords": ["obsidian", "para", "vault", "search"],
+      "description": "Obsidian vault 전용 스킬 묶음 (PARA inbox triage, 볼트 노트 교차 검색, YouTube 노트 NotebookLM 분석·정리 등)",
+      "version": "1.2.0",
+      "keywords": ["obsidian", "para", "vault", "search", "youtube", "notebooklm"],
       "category": "productivity"
     },
     {
