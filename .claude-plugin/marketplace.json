@@ -69,6 +69,26 @@
         "hybrid"
       ],
       "category": "productivity"
+    },
+    {
+      "name": "github-topic-manager",
+      "source": {
+        "source": "github",
+        "repo": "yumesaka/claude-common"
+      },
+      "skills": [
+        "./skills/github-topic-manager"
+      ],
+      "strict": false,
+      "description": "GitHub repository topic rules manager that audits, standardizes, and updates repository topics from the local rule document.",
+      "version": "1.0.0",
+      "keywords": [
+        "github",
+        "topics",
+        "repository",
+        "metadata"
+      ],
+      "category": "development"
     }
   ]
 }
