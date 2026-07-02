@@ -36,7 +36,7 @@
       ],
       "strict": false,
       "description": "Obsidian vault 전용 스킬 묶음 (PARA inbox triage, 볼트 노트 교차 검색(하이브리드 시멘틱 옵션), YouTube 노트 NotebookLM 분석·정리 등)",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "keywords": [
         "obsidian",
         "para",
