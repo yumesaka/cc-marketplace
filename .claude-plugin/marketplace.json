@@ -92,6 +92,29 @@
         "metadata"
       ],
       "category": "development"
+    },
+    {
+      "name": "notion-habit",
+      "source": {
+        "source": "github",
+        "repo": "yumesaka/claude-common"
+      },
+      "skills": [
+        "./skills/generate-monthly-habit-log",
+        "./skills/record-workout-log"
+      ],
+      "strict": false,
+      "description": "Notion habit tracker skills for creating monthly Daily Log pages and recording workout entries linked to Daily Log.",
+      "version": "1.1.0",
+      "keywords": [
+        "notion",
+        "habit",
+        "daily-log",
+        "workout",
+        "automation",
+        "productivity"
+      ],
+      "category": "productivity"
     }
   ]
 }
