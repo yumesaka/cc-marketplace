@@ -33,11 +33,12 @@
         "./skills/inbox-para-triage",
         "./skills/vault-search",
         "./skills/obsidian-web-clipper",
-        "./skills/youtube-notebooklm"
+        "./skills/youtube-notebooklm",
+        "./skills/para-lint"
       ],
       "strict": false,
       "description": "Obsidian vault 전용 스킬 묶음 (PARA inbox triage, 볼트 노트 교차 검색, Web Clipper 클리핑, YouTube 노트 NotebookLM 분석·정리 등)",
-      "version": "1.6.0",
+      "version": "1.7.0",
       "keywords": [
         "obsidian",
         "para",
