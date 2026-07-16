@@ -7,7 +7,7 @@ Claude Code 플러그인 마켓플레이스.
 | 플러그인 | 설명 | 버전 |
 |----------|------|------|
 | [code-reviewer](https://github.com/yumesaka/cc-plugins-sample) | 코드 리뷰어 에이전트 | 1.0.0 |
-| vault-skills | Obsidian vault 전용 스킬 묶음 | 1.6.0 |
+| vault-skills | Obsidian vault 전용 스킬 묶음 | 1.7.0 |
 | github-topic-manager | GitHub repository topic rules manager | 1.0.0 |
 | notion-habit | Notion habit tracker Daily Log 및 운동 기록 스킬 | 1.1.0 |
 
